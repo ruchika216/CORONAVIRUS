@@ -30,10 +30,10 @@ const Covid = () => {
 
   return (
     <>
-    <div className="container">
+    <div className="container" >
       <h1 className="col-12 d-flex justify-content-center">COVID-19 LIVE  TRACKER</h1>
 
-      <div className="row mt-5">
+      <div className="row mt-5" >
         <div className="col-sm-4">
           {/* all states */}
           <div className="card">
